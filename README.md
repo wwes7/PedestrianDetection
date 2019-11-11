@@ -22,9 +22,9 @@ the after tranfering images of the video:./video/person.mkv, which was shot by a
 
 examples:
 
-![example1](https://github.com/wwes7/PedestrianDetection/tree/master/split_images/images100000000000.png)
-![example2](https://github.com/wwes7/PedestrianDetection/tree/master/split_images/images69800000000000.png)
-![example3](https://github.com/wwes7/PedestrianDetection/tree/master/split_images/images82900000000000.png)
+![example1](https://github.com/wwes7/PedestrianDetection/blob/master/split_images/images100000000000.png)
+![example2](https://github.com/wwes7/PedestrianDetection/blob/master/split_images/images69800000000000.png)
+![example3](https://github.com/wwes7/PedestrianDetection/blob/master/split_images/images82900000000000.png)
 
 ### 4.intro:file:[reg_split_images]
 
@@ -32,6 +32,6 @@ the recognized images
 
 examples:
 
-![example4](https://github.com/wwes7/PedestrianDetection/tree/master/reg_split_images/images00000008.png)
-![example5](https://github.com/wwes7/PedestrianDetection/tree/master/reg_split_images/reg_split_images/images00000171.png)
-![example6](https://github.com/wwes7/PedestrianDetection/tree/master/reg_split_images/reg_split_images/images00000191.png)
+![example4](https://github.com/wwes7/PedestrianDetection/blob/master/reg_split_images/images00000008.png)
+![example5](https://github.com/wwes7/PedestrianDetection/blob/master/reg_split_images/reg_split_images/images00000171.png)
+![example6](https://github.com/wwes7/PedestrianDetection/blob/master/reg_split_images/reg_split_images/images00000191.png)
